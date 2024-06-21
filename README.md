@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-My name is Anna. I'm launching my new career in Tech with help of _nology. After moving to the UK I started learning coding on my own by using various free online resources including Microsoft, Codecademy, Code First Girls, Moo ICT, Khan Academy, and GitHub. 
-Recently I have completed 12 week Full-Stack Development bootcamp at _nology.
+My name is Anna, and I am originally from Russia. After relocating to the UK in 2021, I started learning to code on my own by using various free online resources, including Microsoft, Codecademy, Code First Girls, Moo ICT, Khan Academy, and GitHub.
+Towards the end of 2022, I completed a 12 week Full-Stack Development bootcamp at [_nology](https://nology.io/). Beginning 2023, I joined [Phlo Systems](https://www.phlo.io/) as an unpaid intern. In June of that year, I was hired by Phlo Systems as a Junior Software Engineer.
 
-- 🔭 I’m currently working on full-stack project Task Manager
-- 🌱 I’m currently learning Spring Boot
-- 👯 I’m looking to collaborate on project that use React, Javascript or Spring Boot and Java
-
+I initially worked on a React front-end for a commodity hedging platform. Later, I moved to another team where I worked on a full-stack Node.JS application for automating customs declarations to the UK tax authority. Most recently, I have been helping to rewrite this application
+using .NET and Angular with ABP Framework. Throughout this time, I have continued to hone my skills and learn on the job, and I have completed several more online courses from Dometrain.
 
 <!--
 **AnnaKurochkina/AnnaKurochkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
